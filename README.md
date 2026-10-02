@@ -6,7 +6,7 @@ The current price appears in the bot's status, with the percentage change when t
 
 You can also check prices with slash commands. If your server wants daily posts or price alerts, your staff can choose a channel and an optional role to ping. **Notifications are off by default, and the bot never sends DMs.**
 
-— Sylvie Abyss
+- Sylvie Abyss
 
 ## Adding the bot
 
